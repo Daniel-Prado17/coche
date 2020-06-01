@@ -1,1 +1,1 @@
-index.html
+registro2.html
